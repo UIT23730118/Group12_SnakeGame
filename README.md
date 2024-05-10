@@ -1,11 +1,15 @@
 # Group12_SnakeGame
 đây là game Rắn săn mồi của nhóm 12.
+
+## Giới thiệu
+Snake game là một trò chơi đơn giản được viết bằng Python và sử dụng thư viện Pygame. Trong trò chơi này, bạn sẽ điều khiển một con rắn để ăn thức ăn và tránh va chạm với các đường biên và cơ thể của chính mình.
+
 ## Hướng dẫn chơi
- ** Hướng dẫn chơi trò chơi: **
+
    - Sử dụng các phím mũi tên hoặc các phím WASD để điều khiển con rắn.
    - Ăn thức ăn để tăng điểm số và độ dài của con rắn.
    - Tránh va chạm với các đường biên và cơ thể của con rắn.
-   - 
+     
 ## Các tùy chọn
 - Bạn có thể thay đổi độ khó của trò chơi bằng cách chỉnh giá trị biến `difficulty` trong mã nguồn. Các giá trị có thể bạn có thể sử dụng là:
   - Dễ: 10
